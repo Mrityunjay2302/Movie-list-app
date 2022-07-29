@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-list-app/static/css/main.e79b42e3.css",
+    "main.js": "/Movie-list-app/static/js/main.410a2b97.js",
+    "service-worker.js": "/Movie-list-app/service-worker.js",
+    "index.html": "/Movie-list-app/index.html",
+    "main.e79b42e3.css.map": "/Movie-list-app/static/css/main.e79b42e3.css.map",
+    "main.410a2b97.js.map": "/Movie-list-app/static/js/main.410a2b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79b42e3.css",
+    "static/js/main.410a2b97.js"
+  ]
+}
